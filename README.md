@@ -1,1 +1,1 @@
-Hello it's a third lab which was created for asks by Horbatiuk Vladyslav.
+Hello it's a readme for third lab which was created for ASKS by Horbatiuk Vladyslav.
